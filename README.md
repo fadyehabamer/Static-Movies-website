@@ -1,2 +1,4 @@
 # Static Movies website
-# Responsive Static Movies Website using pure Css 
+> Responsive Static Movies Website
+- css
+  - Responsive design
